@@ -7,7 +7,7 @@ getgenv().Configs = {
     },
     ["Hop Player Near"] = false,
     ["Soul Guitar"] = true,
-    ["Find Fruit"] = false, -- Will find 1m+ fruit to unlock swan door to access third sea
+    ["Find Fruit"] = true, -- Will find 1m+ fruit to unlock swan door to access third sea
     ["Cursed Dual Katana"] = true
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/verudous/Xero-Hub/refs/heads/main/kaitun.lua"))()
