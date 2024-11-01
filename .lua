@@ -1,4 +1,3 @@
-
 getgenv().Configs = {
     ["Team"] = "Pirates",
     ["FPS Boost"] = true,
